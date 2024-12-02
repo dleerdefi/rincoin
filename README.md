@@ -1,0 +1,2 @@
+# rincoin
+catigirl rin token
