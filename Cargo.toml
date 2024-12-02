@@ -1,0 +1,15 @@
+[package]
+name = "my-wasm-project"
+version = "0.1.0"
+edition = "2021"
+description = "RINCAT COIN"
+repository = ""
+license = "MIT"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+near-sdk = "5.0.0"
+near-contract-standards = "5.0.0"
+borsh = "1.3.0"
