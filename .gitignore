@@ -1,1 +1,6 @@
 /target
+
+# NEAR ignores
+neardev/
+.env
+*.pem
